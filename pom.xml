@@ -8,6 +8,7 @@
   <modules>
     <module>provider</module>
     <module>consumer</module>
+    <module>../java_nio_demo</module>
   </modules>
   <name>spring Maven Webapp</name>
   <url>http://maven.apache.org</url>

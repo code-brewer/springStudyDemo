@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/Downloads/spring-boot-starter-dubbo-master" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/spring-boot-starter-dubbo-sample-master" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/spring-boot-starter-dubbo-sample-master/api" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/spring-boot-starter-dubbo-sample-master/client" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/spring-boot-starter-dubbo-sample-master/server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../java_nio_demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot" charset="UTF-8" />
+  </component>
+</project>
